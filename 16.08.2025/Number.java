@@ -21,3 +21,5 @@ public class Number {
         sc.close();
     }
 }
+
+//input : 4
