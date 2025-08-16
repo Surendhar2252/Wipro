@@ -26,3 +26,5 @@ class InvertedPyramid{
         sc.close();
     }
 }
+
+//input : 5
